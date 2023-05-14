@@ -13,7 +13,4 @@ public class App
         System.err.println("teset commit");
     }
     
-    public void conflictTest() {
-    	System.out.println("conf test");
-    }
 }
