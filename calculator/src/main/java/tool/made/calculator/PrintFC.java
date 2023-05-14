@@ -20,4 +20,8 @@ public class PrintFC {
 		}
 		return rtnStr;
 	}
+	
+	public void endString() {
+		System.out.println("END ..");
+	}
 }
