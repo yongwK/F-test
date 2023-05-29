@@ -30,4 +30,7 @@ public class PrintFC {
 		System.out.println("never Ending");
 	}
 	
+	public void branchChange() {
+		System.out.println("create func branch change");
+	}
 }
