@@ -25,8 +25,14 @@ public class PrintFC {
 		System.out.println("END ..");
 	}
 	
+
 	public void end() {
 		System.out.println("never Ending");
 	}
 	
+
+	public void whyNot() {
+		System.out.println("branch 와 master 와 conflict 만들기");
+	}
+
 }
