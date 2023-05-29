@@ -37,4 +37,8 @@ public class PrintFC {
 	public void branchChange2() {
 		System.out.println("22222222222222");
 	}
+	
+	public void branchChange23() {
+		System.out.println("2222222222222233333333333");
+	}
 }
