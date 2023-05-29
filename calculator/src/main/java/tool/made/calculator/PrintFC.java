@@ -33,4 +33,8 @@ public class PrintFC {
 	public void branchChange() {
 		System.out.println("create func branch change");
 	}
+	
+	public void branchChange2() {
+		System.out.println("22222222222222");
+	}
 }
