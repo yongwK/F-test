@@ -24,4 +24,9 @@ public class PrintFC {
 	public void endString() {
 		System.out.println("END ..");
 	}
+	
+	public void end() {
+		System.out.println("never Ending");
+	}
+	
 }
